@@ -29,7 +29,7 @@ This project predicts whether a patient has heart disease using machine learning
 
 ## Author
 
-Adan
+Gul-e-Adan
 
 ## Internship
 
